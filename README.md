@@ -1,4 +1,4 @@
-# testselect
+# testreflect
 Simple examples on using go Reflect for interface decoding of structs, slices and slices of structs
 
 So this is very simple but it gets the gist of reflect and how to create an interface{} and how they
